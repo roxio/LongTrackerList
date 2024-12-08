@@ -3,4 +3,5 @@ Very very long tracker list
 
 Last update 2024/12/08:
 
-* Trackers_ALL (637 trackers) =>
+* Trackers_ALL (637 trackers) => all of found
+* 2024_responding_Trackers.txt (141 trackers) => responding
